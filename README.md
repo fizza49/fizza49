@@ -20,7 +20,3 @@ Here are some tools and technologies I use:
 - Web: HTML, CSS 
 - Data: SQL, Pandas, NumPy,Sklearn
 - Tools: Git, GitHub, VS Code 
-
---- 
-
-⭐️ *Thanks for visiting my profile!*  
